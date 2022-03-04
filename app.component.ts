@@ -6,12 +6,5 @@ import { FormGroup, FormControl, Validators} from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-
   title='LoginApp';
-  getValues(val: any)
-  {
-    console.warn(val);
-  }
-  
-
 }
