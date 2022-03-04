@@ -1,0 +1,22 @@
+div
+{
+    background-color: rgba(228, 223, 236, 0.445);
+}
+h1
+{
+    background-color: rgb(147, 178, 206);
+    text-align: center;
+    font-size: 10;
+    font-weight: bold;
+    text-align: center;
+}
+form
+{
+        background-color: rgb(224, 141, 192);
+        border: 3px solid;
+        height: 400px;
+        width: 500px;
+        margin-left: 35%;
+        
+ }
+ 
